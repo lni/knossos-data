@@ -1,2 +1,4 @@
 # knossos-data
-This repo contains edn history of the I/O saw during Dragonboat's nightly tests, we checked them using [knossos](https://github.com/jepsen-io/knossos).
+This repo contains edn history files captured during Dragonboat's nightly tests, they have been verified using [knossos](https://github.com/jepsen-io/knossos).
+
+
